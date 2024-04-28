@@ -207,3 +207,5 @@ legend("topright", legend = unique_methods, col = line_colors,
        
        lty = line_types, cex = 1)
 
+#By Chotsani Siyabonga
+
